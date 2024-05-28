@@ -10,7 +10,7 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" alt="Vue.js" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#4FC08D;"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#DD0031;"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#61DAFB;"/> (básico)
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#61DAFB;"/>
   </p>
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#38B2AC;"/>
@@ -22,9 +22,7 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
 ### Backend
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" alt="Laravel" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#FF2D20;"/>
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#4479A1;"/>
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#4479A1;"/>
   </p>
 
 ## Proyectos Destacados
