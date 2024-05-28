@@ -1,7 +1,7 @@
 # :ringed_planet: ¡Hola! Mi nombre es Brian Ramírez :ringed_planet: 
 
 ## Sobre mí
-Soy un desarrollador web apasionado con experiencia en una variedad de tecnologías y frameworks. Me encanta construir aplicaciones web robustas y eficientes, y soy un apasionado del diseño.
+Soy un desarrollador web apasionado con experiencia en una variedad de tecnologías y frameworks. Me encanta construir aplicaciones web robustas y eficientes, además de ser un apasionado del diseño.
 
 ## Tecnologías y Herramientas
 Estas son algunas de las tecnologías y herramientas con las que tengo experiencia:
@@ -32,9 +32,5 @@ Queater es una aplicación web diseñada para optimizar el servicio en restauran
 ## Contacto
 - **Email:** [brianramirezdelgadodev@gmail.com](mailto:brianramirezdelgadodev@gmail.com)
 - **LinkedIn:** [Tu Perfil de LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/brian-ramirez-delgado/))
-
-## Mis Objetivos
-- Mejorar mis habilidades en React y explorar más frameworks modernos.
-- Ampliar mis conocimientos de frontend
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar en proyectos interesantes o simplemente para charlar sobre tecnología.
