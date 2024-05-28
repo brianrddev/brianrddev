@@ -25,7 +25,7 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" style="vertical-align:middle; margin-right: 8px;"/>
   </p>
 
-## Proyecto Destacado
+## :star2: Proyecto Destacado :star2:	
 ### [Queater]
 Queater es una aplicación web diseñada para optimizar el servicio en restaurantes, reduciendo la carga de trabajo de los camareros y brindando mayor autonomía a los clientes. La aplicación funciona mediante el escaneo de un código QR ubicado en cada mesa del restaurante. Al escanear el QR, los clientes acceden a una interfaz web en la que pueden visualizar el menú del restaurante, seleccionar los productos que desean y realizar su pedido.
 
