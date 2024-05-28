@@ -1,27 +1,27 @@
-# ¡Hola! Mi nombre es Brian Ramírez
+# :ringed_planet: ¡Hola! Mi nombre es Brian Ramírez :ringed_planet: 
 
 ## Sobre mí
-Soy un desarrollador web apasionado con experiencia en una variedad de tecnologías y frameworks. Me encanta construir aplicaciones web robustas y eficientes, y siempre estoy en busca de nuevos retos y oportunidades para aprender y mejorar mis habilidades.
+Soy un desarrollador web apasionado con experiencia en una variedad de tecnologías y frameworks. Me encanta construir aplicaciones web robustas y eficientes, y soy un apasionado del diseño.
 
 ## Tecnologías y Herramientas
 Estas son algunas de las tecnologías y herramientas con las que tengo experiencia:
 
 ### Frontend
-- **Frameworks:** 
-  - Vue.js
-  - Angular
-  - React (básico)
+- **Frameworks:**
+  - ![Vue.js](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg) Vue.js
+  - ![Angular](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg) Angular
+  - ![React](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg) React (básico)
 - **Estilos y Diseño:**
-  - Tailwind CSS
-  - HTML5
-  - CSS3
-  - JavaScript (JS)
+  - ![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg) Tailwind CSS
+  - ![HTML5](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg) HTML5
+  - ![CSS3](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg) CSS3
+  - ![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg) JavaScript (JS)
 
 ### Backend
 - **Frameworks:**
-  - Laravel
+  - ![Laravel](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg) Laravel
 - **Bases de Datos:**
-  - MySQL
+  - ![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg) MySQL
 
 ## Proyectos Destacados
 ### [Queater]
