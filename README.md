@@ -22,7 +22,7 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
 ### Backend
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" alt="Laravel" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#FF2D20;"/>
-     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#4479A1;"/>
+     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" height="40" width="40" style="vertical-align:middle; margin-right: 8px; color:#4479A1;"/>
   </p>
 
 ## Proyecto Destacado
