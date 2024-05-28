@@ -7,13 +7,11 @@ Soy un desarrollador web apasionado con experiencia en una variedad de tecnolog�
 Estas son algunas de las tecnologías y herramientas con las que tengo experiencia:
 
 ### Frontend
-- **Frameworks:**
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" alt="Vue.js" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#4FC08D;"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#DD0031;"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#61DAFB;"/> (básico)
   </p>
-- **Estilos y Diseño:**
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#38B2AC;"/>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#E34F26;"/>
@@ -22,11 +20,9 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
   </p>
 
 ### Backend
-- **Frameworks:**
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" alt="Laravel" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#FF2D20;"/>
   </p>
-- **Bases de Datos:**
   <p>
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#4479A1;"/>
   </p>
