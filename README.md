@@ -8,21 +8,21 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
 
 ### Frontend
   <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" alt="Vue.js" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#4FC08D;"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#DD0031;"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt="React" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#61DAFB;"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" height="30" style="vertical-align:middle; margin-right: 8px;"/>
   </p>
   <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" alt="Tailwind CSS" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#38B2AC;"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#E34F26;"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#1572B6;"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#F7DF1E;"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="30" style="vertical-align:middle; margin-right: 8px;"/>
   </p>
 
 ### Backend
   <p>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" alt="Laravel" height="30" width="30" style="vertical-align:middle; margin-right: 8px; color:#FF2D20;"/>
-     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" height="40" width="40" style="vertical-align:middle; margin-right: 8px; color:#4479A1;"/>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" style="vertical-align:middle; margin-right: 8px;"/>
   </p>
 
 ## Proyecto Destacado
