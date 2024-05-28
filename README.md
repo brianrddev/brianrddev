@@ -1,8 +1,5 @@
 # ¡Hola!, mi nombre es Brian Ramírez
 
-## Sobre mí
-Soy un desarrollador web apasionado con experiencia en una variedad de tecnologías y frameworks. Me encanta construir aplicaciones web robustas y eficientes, además de ser un apasionado del diseño.
-
 ## Tecnologías y Herramientas
 Estas son algunas de las tecnologías y herramientas con las que tengo experiencia:
 
