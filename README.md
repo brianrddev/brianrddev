@@ -20,6 +20,7 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
   <p>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="30" style="vertical-align:middle; margin-right: 8px;"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/PHP-4479A1?style=for-the-badge&logo=php&logoColor=white" alt="MySQL" height="30" style="vertical-align:middle; margin-right: 8px;"/>
   </p>
 
 ## :star2: Proyecto Destacado :star2:	
