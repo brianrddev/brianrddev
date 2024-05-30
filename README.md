@@ -7,7 +7,7 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
   <p>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" height="30" style="vertical-align:middle; margin-right: 8px;"/>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/React-52C0D9?style=for-the-badge&logo=react&logoColor=white" alt="React" height="30" style="vertical-align:middle; margin-right: 8px;"/>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" style="vertical-align:middle; margin-right: 8px;"/>
