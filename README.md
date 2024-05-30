@@ -29,10 +29,10 @@ Queater es una aplicación web diseñada para optimizar el servicio en restauran
 
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-ramirez-delgado/)
-<span>
+<p>
   <img src="https://github.com/brianrddev/brianrddev/assets/116809102/42c907ab-eafb-49f0-a62e-04de5023a43d" alt="image" height="30" style="vertical-align: middle; margin-right: 10px;">
-  <p style="vertical-align: middle">brianramirezdelgadodev@gmail.com</p>
-</span>
+  <span style="vertical-align: middle;">brianramirezdelgadodev@gmail.com</span>
+</p>
 
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar en proyectos interesantes o simplemente para charlar sobre tecnología.
