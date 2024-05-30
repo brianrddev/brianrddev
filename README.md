@@ -12,7 +12,7 @@ Estas son algunas de las tecnologías y herramientas con las que tengo experienc
   <p>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" style="vertical-align:middle; margin-right: 8px;"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" style="vertical-align:middle; margin-right: 8px;"/>
+    <img src="https://img.shields.io/badge/CSS3-079DD9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" style="vertical-align:middle; margin-right: 8px;"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="30" style="vertical-align:middle; margin-right: 8px;"/>
   </p>
 
