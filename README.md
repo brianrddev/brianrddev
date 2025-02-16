@@ -1,40 +1,88 @@
-# ¡Hola!, mi nombre es Brian Ramírez
+<h1 align="left">Hey!</h1>
 
-## Tecnologías y Herramientas
-Estas son algunas de las tecnologías y herramientas con las que tengo experiencia:
+###
 
-### Frontend
-  <p>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/React-52C0D9?style=for-the-badge&logo=react&logoColor=white" alt="React" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/HTML5-F2622E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/CSS3-079DD9?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/JavaScript-F2E422?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-  </p>
+<p align="left">My name is Brian and I'm a from Canary Islands</p>
 
-### Backend
-  <p>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/PHP-8E9ABF?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" style="vertical-align:middle; margin-right: 8px;"/>
-  </p>
+###
 
-## :star2: Proyecto Destacado :star2:	
-### [Queater](https://github.com/brianrddev/Queater/)
-Queater es una aplicación web diseñada para optimizar el servicio en restaurantes, reduciendo la carga de trabajo de los camareros y brindando mayor autonomía a los clientes. La aplicación funciona mediante el escaneo de un código QR ubicado en cada mesa del restaurante. Al escanear el QR, los clientes acceden a una interfaz web en la que pueden visualizar el menú del restaurante, seleccionar los productos que desean y realizar su pedido.
+<h2 align="left">About me</h2>
 
-## Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianramirez-dev/)
+###
 
-#### 🌐 [brianramirez.dev](https://brianramirez.dev)
-<p>:envelope_with_arrow:	contacto@brianramirez.dev</p>
+<p align="left">🟠Frontend Developer<br>🟠Co-CEO from @Queater<br>🟠I'm currently learning everything i can</p>
 
+###
 
+<h2 align="left">Development</h2>
 
+###
 
-¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar en proyectos interesantes o simplemente para charlar sobre tecnología.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h2 align="left">Design</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<h2 align="left">Version Control</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="left">Databases</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">Social Links</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/brianramirez-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/brianramirezdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
