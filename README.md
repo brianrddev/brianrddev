@@ -1,15 +1,5 @@
 <h1 align="left">Hey!</h1>
 
-###
-
-<p align="left">My name is Brian and I'm a from Canary Islands</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">🟠Frontend Developer<br>🟠Co-CEO from @Queater<br>🟠I'm currently learning everything i can</p>
 
 ###
