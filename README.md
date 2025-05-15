@@ -2,7 +2,7 @@
 
 <ul>
   <li>Frontend Developer</li>
-  <li>Co-CEO from @Queater</li>
+  <li>Co-Founder & CTO of @Queater</li>
   <li>I'm currently learning AI</li>
 </ul>
 
