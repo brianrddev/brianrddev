@@ -19,7 +19,7 @@ This repository contains the source code of my personal portfolio, built with a 
 
 | Feature | Technologies Used |
 | :--- | :--- |
-| **Frontend Core** | Next.js 14 (App Router, Server Actions), React 18, TypeScript, Tailwind CSS 4, shadcn/ui |
+| **Frontend Core** | React 18, TypeScript, Tailwind CSS 4, shadcn/ui |
 | **Advanced Animation** | GSAP (scroll-based and entry animations) |
 | **3D & Smoothness** | Three.js (visual elements), Lenis (smooth scrolling) |
 | **Contact Form** | React Hook Form, Zod (validation), Resend (email delivery via Server Actions) |
@@ -68,7 +68,6 @@ Frontend Developer | 2024
 
 <h3 align="left">Frontend</h3>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
