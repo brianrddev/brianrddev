@@ -124,7 +124,6 @@ Frontend Developer | 2024
 <h3 align="left">📫 Connect with me</h3>
 
 * **Email:** brianrd.dev@gmail.com  
-* **Phone:** +34 611 15 47 64  
 * **Portfolio:** https://brianramirez.dev  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianramirez-dev/)
